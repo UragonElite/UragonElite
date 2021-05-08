@@ -1,0 +1,325 @@
+#EXTM3U url-tvg="https://yamcode.com/raw/epg-62187"
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Channel (option 1)" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="(no group)",Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Online Live" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="(no group)",Kapamilya Online Live
+https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="(no group)",TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="(no group)",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="(no group)",Cinema One
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:-1 tvg-id="GMA 7" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="(no group)",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="(no group)",GTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://www.clipartmax.com/png/middle/111-1111324_pbo-logo-pbo-pinoy-box-office.png" group-title="(no group)",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18101212/cnn-philippines-logo-300x300.png" group-title="(no group)",CNN PH
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="(no group)",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="(no group)",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="(no group)",PTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8#EXTM3U 
+#EXTINF:-1 ,5STAR
+http://5.101.140.110:8000/play/a00m/index.m3u8
+#EXTINF:-1 ,5STAR+1
+http://5.101.140.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 ,5USA+1
+http://5.101.140.110:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,AAJ TAK
+http://5.101.140.110:8000/play/a04f/index.m3u8
+#EXTINF:-1 ,ARY Digital
+http://5.101.140.110:8000/play/a04w/index.m3u8
+#EXTINF:-1 ,Absolute
+http://5.101.140.110:8000/play/a03z/index.m3u8
+#EXTINF:-1 ,Absolute 80s
+http://5.101.140.110:8000/play/a040/index.m3u8
+#EXTINF:-1 ,Absolute 90s
+http://5.101.140.110:8000/play/a041/index.m3u8
+#EXTINF:-1 ,Al Jazeera HD
+http://5.101.140.110:8000/play/a03s/index.m3u8
+#EXTINF:-1 ,Arise News
+http://5.101.140.110:8000/play/a04l/index.m3u8
+#EXTINF:-1 ,BFBS Radio
+http://5.101.140.110:8000/play/a03t/index.m3u8
+#EXTINF:-1 ,Babenation
+http://5.101.140.110:8000/play/a03m/index.m3u8
+#EXTINF:-1 ,Best Direct
+http://5.101.140.110:8000/play/a047/index.m3u8
+#EXTINF:-1 ,Brit Asia TV
+http://5.101.140.110:8000/play/a04v/index.m3u8
+#EXTINF:-1 ,CBS Drama
+http://5.101.140.110:8000/play/a00y/index.m3u8
+#EXTINF:-1 ,CBS Drama
+http://5.101.140.110:8000/play/a00t/index.m3u8
+#EXTINF:-1 ,CBS Justice
+http://5.101.140.110:8000/play/a00z/index.m3u8
+#EXTINF:-1 ,CBS Reality
+http://5.101.140.110:8000/play/a013/index.m3u8
+#EXTINF:-1 ,CBS Reality+1
+http://5.101.140.110:8000/play/a014/index.m3u8
+#EXTINF:-1 ,Channel 4+1
+http://5.101.140.110:8000/play/a01f/index.m3u8
+#EXTINF:-1 ,Channel 7
+http://5.101.140.110:8000/play/a04p/index.m3u8
+#EXTINF:-1 ,Classic Rock
+http://5.101.140.110:8000/play/a042/index.m3u8
+#EXTINF:-1 ,Court TV
+http://5.101.140.110:8000/play/a04c/index.m3u8
+#EXTINF:-1 ,Dunamis TV
+http://5.101.140.110:8000/play/a044/index.m3u8
+#EXTINF:-1 ,Dunya News
+http://5.101.140.110:8000/play/a04y/index.m3u8
+#EXTINF:-1 ,E4+1
+http://5.101.140.110:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,Eman Channel
+http://5.101.140.110:8000/play/a03p/index.m3u8
+#EXTINF:-1 ,Faith UK
+http://5.101.140.110:8000/play/a04t/index.m3u8
+#EXTINF:-1 ,Faith World TV
+http://5.101.140.110:8000/play/a04g/index.m3u8
+#EXTINF:-1 ,Film4+1
+http://5.101.140.110:8000/play/a01h/index.m3u8
+#EXTINF:-1 ,Foodxp
+http://5.101.140.110:8000/play/a03h/index.m3u8
+#EXTINF:-1 ,GEO News
+http://5.101.140.110:8000/play/a04m/index.m3u8
+#EXTINF:-1 ,GEO TV
+http://5.101.140.110:8000/play/a04k/index.m3u8
+#EXTINF:-1 ,GOD Channel
+http://5.101.140.110:8000/play/a048/index.m3u8
+#EXTINF:-1 ,Gems TV
+http://5.101.140.110:8000/play/a04n/index.m3u8
+#EXTINF:-1 ,Heart
+http://5.101.140.110:8000/play/a03v/index.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/&checkedby
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&checkedby
+#EXTINF:-1,Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1,GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1,Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1,Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1,Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/&checkedby
+#EXTINF:-1,Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/&checkedby
+#EXTINF:-1,MTA 1 Original
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1,MTA 1
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:-1,MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8
+#EXTINF:-1,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+#EXTINF:-1,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
+#EXTINF:-1,MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1,Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/&checkedby
+#EXTINF:-1,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1,Sheffield TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby
+#EXTINF:-1,Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1,Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8#EXTM3U url-tvg="https://yamcode.com/raw/epg-62187"
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Channel (option 1)" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="(no group)",Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Online Live" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="(no group)",Kapamilya Online Live
+https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="(no group)",TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="(no group)",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="(no group)",Cinema One
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:-1 tvg-id="GMA 7" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="(no group)",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="(no group)",GTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://www.clipartmax.com/png/middle/111-1111324_pbo-logo-pbo-pinoy-box-office.png" group-title="(no group)",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18101212/cnn-philippines-logo-300x300.png" group-title="(no group)",CNN PH
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="(no group)",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="(no group)",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="(no group)",PTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8#EXTM3U 
+#EXTINF:-1 ,5STAR
+http://5.101.140.110:8000/play/a00m/index.m3u8
+#EXTINF:-1 ,5STAR+1
+http://5.101.140.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 ,5USA+1
+http://5.101.140.110:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,AAJ TAK
+http://5.101.140.110:8000/play/a04f/index.m3u8
+#EXTINF:-1 ,ARY Digital
+http://5.101.140.110:8000/play/a04w/index.m3u8
+#EXTINF:-1 ,Absolute
+http://5.101.140.110:8000/play/a03z/index.m3u8
+#EXTINF:-1 ,Absolute 80s
+http://5.101.140.110:8000/play/a040/index.m3u8
+#EXTINF:-1 ,Absolute 90s
+http://5.101.140.110:8000/play/a041/index.m3u8
+#EXTINF:-1 ,Al Jazeera HD
+http://5.101.140.110:8000/play/a03s/index.m3u8
+#EXTINF:-1 ,Arise News
+http://5.101.140.110:8000/play/a04l/index.m3u8
+#EXTINF:-1 ,BFBS Radio
+http://5.101.140.110:8000/play/a03t/index.m3u8
+#EXTINF:-1 ,Babenation
+http://5.101.140.110:8000/play/a03m/index.m3u8
+#EXTINF:-1 ,Best Direct
+http://5.101.140.110:8000/play/a047/index.m3u8
+#EXTINF:-1 ,Brit Asia TV
+http://5.101.140.110:8000/play/a04v/index.m3u8
+#EXTINF:-1 ,CBS Drama
+http://5.101.140.110:8000/play/a00y/index.m3u8
+#EXTINF:-1 ,CBS Drama
+http://5.101.140.110:8000/play/a00t/index.m3u8
+#EXTINF:-1 ,CBS Justice
+http://5.101.140.110:8000/play/a00z/index.m3u8
+#EXTINF:-1 ,CBS Reality
+http://5.101.140.110:8000/play/a013/index.m3u8
+#EXTINF:-1 ,CBS Reality+1
+http://5.101.140.110:8000/play/a014/index.m3u8
+#EXTINF:-1 ,Channel 4+1
+http://5.101.140.110:8000/play/a01f/index.m3u8
+#EXTINF:-1 ,Channel 7
+http://5.101.140.110:8000/play/a04p/index.m3u8
+#EXTINF:-1 ,Classic Rock
+http://5.101.140.110:8000/play/a042/index.m3u8
+#EXTINF:-1 ,Court TV
+http://5.101.140.110:8000/play/a04c/index.m3u8
+#EXTINF:-1 ,Dunamis TV
+http://5.101.140.110:8000/play/a044/index.m3u8
+#EXTINF:-1 ,Dunya News
+http://5.101.140.110:8000/play/a04y/index.m3u8
+#EXTINF:-1 ,E4+1
+http://5.101.140.110:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,Eman Channel
+http://5.101.140.110:8000/play/a03p/index.m3u8
+#EXTINF:-1 ,Faith UK
+http://5.101.140.110:8000/play/a04t/index.m3u8
+#EXTINF:-1 ,Faith World TV
+http://5.101.140.110:8000/play/a04g/index.m3u8
+#EXTINF:-1 ,Film4+1
+http://5.101.140.110:8000/play/a01h/index.m3u8
+#EXTINF:-1 ,Foodxp
+http://5.101.140.110:8000/play/a03h/index.m3u8
+#EXTINF:-1 ,GEO News
+http://5.101.140.110:8000/play/a04m/index.m3u8
+#EXTINF:-1 ,GEO TV
+http://5.101.140.110:8000/play/a04k/index.m3u8
+#EXTINF:-1 ,GOD Channel
+http://5.101.140.110:8000/play/a048/index.m3u8
+#EXTINF:-1 ,Gems TV
+http://5.101.140.110:8000/play/a04n/index.m3u8
+#EXTINF:-1 ,Heart
+http://5.101.140.110:8000/play/a03v/index.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/&checkedby
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&checkedby
+#EXTINF:-1,Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1,GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1,Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1,Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1,Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/&checkedby
+#EXTINF:-1,Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/&checkedby
+#EXTINF:-1,MTA 1 Original
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1,MTA 1
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:-1,MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8
+#EXTINF:-1,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+#EXTINF:-1,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
+#EXTINF:-1,MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1,Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/&checkedby
+#EXTINF:-1,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1,Sheffield TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby
+#EXTINF:-1,Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1,Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8

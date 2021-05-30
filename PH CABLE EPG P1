@@ -5,15 +5,15 @@
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="FOX Life (HD)">
-    <display-name lang="en">FOX Life (HD)</display-name>
+    <display-name lang="en">FOX Life PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="Fox Movies">
-    <display-name lang="en">Fox Movies</display-name>
+    <display-name lang="en">FOX Movies HD PH</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Kapamilya Channel">
-    <display-name lang="en">Kapamilya Channel</display-name>
+    <display-name lang="en">ABS-CBN</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="GMA 7">
@@ -25,15 +25,15 @@
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="TV 5">
-    <display-name lang="en">TV 5</display-name>
+    <display-name lang="en">TV5</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Cinema One">
-    <display-name lang="en">Cinema One</display-name>
+    <display-name lang="en">CINEMA ONE</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Animax">
-    <display-name lang="en">Animax</display-name>
+    <display-name lang="en">ANIMAX PH</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="PBO">
@@ -49,27 +49,27 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="HBO HD">
-    <display-name lang="en">HBO HD</display-name>
+    <display-name lang="en">HBO HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="HBO Signature (HD)">
-    <display-name lang="en">HBO Signature (HD)</display-name>
+    <display-name lang="en">HBO Signature HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="HBO Family (HD)">
-    <display-name lang="en">HBO Family (HD)</display-name>
+    <display-name lang="en">HBO Family HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="HBO Hits (HD)">
-    <display-name lang="en">HBO Hits (HD)</display-name>
+    <display-name lang="en">HBO Hits HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="CINEMAX (HD)">
-    <display-name lang="en">CINEMAX (HD)</display-name>
+    <display-name lang="en">CINEMAX HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="RED BY HBO (HD)">
-    <display-name lang="en">RED BY HBO (HD)</display-name>
+    <display-name lang="en">Red by HBO HD PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="Warner TV (HD)">
@@ -101,7 +101,7 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="Discovery Channel (HD)">
-    <display-name lang="en">Discovery Channel (HD)</display-name>
+    <display-name lang="en">DISCOVERY CHANNEL PH</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="PTV">
@@ -121,7 +121,7 @@
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="Jeepney TV">
-    <display-name lang="en">Jeepney TV</display-name>
+    <display-name lang="en">JEEPNEY TV</display-name>
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="ANC">
@@ -141,7 +141,7 @@
     <url>http://www.clickthecity.com</url>
   </channel>
   <channel id="FOX Action Movies (HD)">
-    <display-name lang="en">FOX Action Movies (HD)</display-name>
+    <display-name lang="en">FOX Action Movies</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
   <channel id="AFN (HD)">

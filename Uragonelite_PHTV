@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 radio="false" tvg-id="ABS-CBN" tvg-name="ABS-CBN" tvg-logo="http://103.65.184.145:8445/logo/111.png" group-title="PINAS",ABS-CBN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+#EXTINF:-1 radio="false" tvg-name="GMA PINOY TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="PINAS",GMA PINOY TV
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/147238.ts
+#EXTINF:-1 radio="false" tvg-name="GMA NEWS TV" tvg-logo="http://103.65.184.145:8445/logo/35.png" group-title="PINAS",GMA NEWS TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
+#EXTINF:-1 radio="false" tvg-name="GMA LIFE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png/revision/latest?cb=20120214105257" group-title="PINAS",GMA LIFE TV
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144867.ts
+#EXTINF:-1 radio="false" tvg-name="DZMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="PINAS",DZMM TV
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266847.ts
+#EXTINF:-1 radio="false" tvg-name="BEAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/BEAM_TV_3D_Logo_2014.png" group-title="PINAS",BEAM TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="PILIPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Pilipinashd-transbg-wh-v2_%281%29.png" group-title="PINAS",PILIPINAS HD
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-name="CINE MO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png" group-title="PINAS",CINE MO!
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/127.m3u8
+#EXTINF:-1 radio="false" tvg-name="CINEMA ONE" tvg-logo="http://103.65.184.145:8445/logo/41.png" group-title="PINAS",CINEMA ONE
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/109.m3u8
+#EXTINF:-1 radio="false" tvg-name="TV5" tvg-logo="http://103.65.184.145:8445/logo/36.png" group-title="PINAS",TV5
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
+#EXTINF:-1 radio="false" tvg-name="ONE SPORTS" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="PINAS",ONE SPORTS
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="PBO" tvg-logo="http://103.65.184.145:8445/logo/39.png" group-title="PINAS",PBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/110.m3u8
+#EXTINF:-1 radio="false" tvg-name="GMA 7" tvg-logo="http://103.65.184.145:8445/logo/5.png" group-title="PINAS",GMA 7
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+#EXTINF:-1 radio="false" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="PINAS",GTV
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF:-1 radio="false" tvg-name="JEEPNEY TV" tvg-logo="http://103.65.184.145:8445/logo/42.png" group-title="PINAS",JEEPNEY TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+#EXTINF:-1 radio="false" tvg-name="MYX " tvg-logo="http://103.65.184.145:8445/logo/73.png" group-title="PINAS",MYX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/116.m3u8
+#EXTINF:-1 radio="false" tvg-name="ANC" tvg-logo="https://img1.pnghut.com/24/13/9/ATvKaxqhjb/logo-brand-abscbn-news-channel-banner-and-current-affairs.jpg" group-title="PINAS",ANC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
+#EXTINF:-1 radio="false" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="PINAS",PTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/101.m3u8
+#EXTINF:-1 radio="false" tvg-name="HBO HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="PINAS",HBO HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=hbo
+#EXTINF:-1 radio="false" tvg-name="HBO Hits HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="PINAS",HBO Hits HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=hits
+#EXTINF:-1 radio="false" tvg-name="HBO Family HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="PINAS",HBO Family HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=fam
+#EXTINF:-1 radio="false" tvg-name="HBO Signature HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PINAS",HBO Signature HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=sig
+#EXTINF:-1 radio="false" tvg-name="Red by HBO HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg" group-title="PINAS",Red by HBO HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=red
+#EXTINF:-1 radio="false" tvg-name="Cinemax HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="PINAS",Cinemax HD PH
+https://kopiku.my.id/inr/hbo.m3u8?channel=max
+#EXTINF:-1 radio="false" tvg-name="FOX HD PH" tvg-logo="http://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png" group-title="PINAS",FOX HD PH
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 radio="false" tvg-name="FOX Movies HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="PINAS",FOX Movies HD PH
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="FOX Life PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png" group-title="PINAS",FOX Life PH
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="&Prive HD PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="PINAS",&Prive HD PH
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 radio="false" tvg-name="ANIMAX PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="PINAS",ANIMAX PH
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1 radio="false" tvg-name="DISCOVERY CHANNEL PH" tvg-logo="https://img.pngio.com/discovery-channel-logos-download-discovery-channel-logo-png-5000_1130.png" group-title="PINAS",DISCOVERY CHANNEL PH
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="BABY FIRST PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png" group-title="PINAS",BABY FIRST PH
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="AXN HD PH" tvg-logo="http://103.65.184.145:8445/logo/102.png" group-title="PINAS",AXN HD PH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/121.m3u8
+#EXTINF:-1 radio="false" tvg-name="Asian Food Network PH" tvg-logo="https://asianfoodnetwork.com/content/dam/afn/global/en/common/logo/afn-logo-white-w-padding.png" group-title="PINAS",Asian Food Network PH
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-name="History Channel PH" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="PINAS",History Channel PH
+http://platinumxmedia.xyz:8080/Captain_of_streams/2FK4wwonnM/1060
+#EXTINF:-1 radio="false" tvg-name="ONE SPORTS+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/780?cb=20200309053551" group-title="PINAS",ONE SPORTS+
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
+#EXTINF:-1 radio="false" tvg-name="SOLAR SPORTS" tvg-logo="http://103.65.184.145:8445/logo/50.png" group-title="PINAS",SOLAR SPORTS
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/118.m3u8
+#EXTINF:-1 radio="false" tvg-name="NBA PHILIPPINES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="PINAS",NBA PHILIPPINES
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/120.m3u8
+#EXTINF:-1 radio="false" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" group-title="PINAS",PBA RUSH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/122.m3u8
+#EXTINF:-1 radio="false" tvg-name="SOLAR CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Solar_TV_Logo.png/revision/latest?cb=20180814025528" group-title="PINAS",SOLAR CHANNEL
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/123.m3u8
+#EXTINF:-1 radio="false" tvg-name="PINOY EXTREME" tvg-logo="http://103.65.184.145:8445/logo/51.png" group-title="PINAS",PINOY EXTREME
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/124.m3u8
+#EXTINF:-1 radio="false" tvg-name="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest?cb=20160619031101" group-title="PINAS",SARI-SARI
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/139.m3u8
